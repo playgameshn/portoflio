@@ -447,7 +447,8 @@ section .skills{
   padding:10px 20px 10px 120px;
   display: flex;
   align-content: space-around;
-  min-height: 700px;
+        min-height: 800px;
+
   flex-wrap: wrap;
 }
 section .skills .section{
