@@ -5,9 +5,6 @@
     section .skills .section .skillscont{
         width: 100%;
     }
-    section .skills{
-        min-height: 800px;
-    }
     nav ul li a .icon{
         font-size: 1.5rem;
     }
