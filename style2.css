@@ -158,7 +158,7 @@
      }
      section .skills{
          padding-left: 20px;
-         padding-top: 40px;
+         margin-top: 50px;
      }
      section.active .skills{
         padding-left: 20px;   
