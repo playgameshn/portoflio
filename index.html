@@ -228,7 +228,7 @@
             document.querySelector('nav ul li[title="messages"]') .click()
         }
         var query = window.matchMedia("(max-width: 576px)")
-        function myfunc() {if (query.matches) {nav.classList.remove("active")}};
+        function myfunc() {if (query.matches) {nav.classList.remove("active");section.classList.remove("active")}};
         list.forEach((item) =>
         item.addEventListener('click', myfunc));
         
