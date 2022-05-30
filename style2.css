@@ -157,8 +157,10 @@
          width: 80vw;
      }
      section .skills{
-         padding-left: 20px;
+         padding: 10px;
          margin-top: 50px;
+         min-height: 600px;
+         max-height: 800px;
      }
      section.active .skills{
         padding-left: 20px;   
@@ -173,6 +175,10 @@
      }
      .color-change{
         bottom: 20px;
+     }
+     .section .skills .section{
+         padding: 0px 10px;
+         min-height: 29vh;
      }
   }
 
