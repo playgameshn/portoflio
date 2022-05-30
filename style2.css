@@ -160,6 +160,9 @@
          padding-left: 20px;
          padding-top: 40px;
      }
+     section.active .skills{
+        padding-left: 20px;   
+     }
      .suc-send{
          width: 70vw;
      }
@@ -167,6 +170,9 @@
          width:350px;
          min-height: 125px;
          max-height: 125px;
+     }
+     .color-change{
+        bottom: 20px;
      }
   }
 
