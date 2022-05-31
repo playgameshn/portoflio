@@ -170,8 +170,6 @@
      }
      section .messages .inputs{
          width:350px;
-         min-height: 125px;
-         max-height: 125px;
      }
      .color-change{
         bottom: 20px;
